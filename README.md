@@ -6,7 +6,7 @@ Future of Digital Assets 🌐
 
 Baran is a project focused on exploring and shaping the future of digital assets and blockchain innovation.  
 
-## 🚀 Features  
+## 🚀 Feature
 - Research and analysis of blockchain trends
 - Educational content about decentralized finance (DeFi)  
 - Tools and resources for crypto enthusiasts  
