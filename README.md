@@ -1,4 +1,4 @@
-# bara
+# baran
 8. Future of digital assets.
 9. 
 
